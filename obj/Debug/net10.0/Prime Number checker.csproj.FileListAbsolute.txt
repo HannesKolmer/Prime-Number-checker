@@ -1,0 +1,29 @@
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\bin\Debug\net10.0\Prime Number checker.exe
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\bin\Debug\net10.0\Prime Number checker.deps.json
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\bin\Debug\net10.0\Prime Number checker.runtimeconfig.json
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\bin\Debug\net10.0\Prime Number checker.dll
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\bin\Debug\net10.0\Prime Number checker.pdb
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\obj\Debug\net10.0\Prime Number checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\obj\Debug\net10.0\Prime Number checker.AssemblyInfoInputs.cache
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\obj\Debug\net10.0\Prime Number checker.AssemblyInfo.cs
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\obj\Debug\net10.0\Prime Number checker.csproj.CoreCompileInputs.cache
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\obj\Debug\net10.0\Prime Number checker.dll
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\obj\Debug\net10.0\refint\Prime Number checker.dll
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\obj\Debug\net10.0\Prime Number checker.pdb
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\obj\Debug\net10.0\Prime Number checker.genruntimeconfig.cache
+C:\Users\tuprak\Documents\Neuer Ordner (2)\Prime Number checker\Prime Number checker\obj\Debug\net10.0\ref\Prime Number checker.dll
+C:\Users\tuprak\Documents\Neuer Ordner (3)\bin\Debug\net10.0\Prime Number checker.exe
+C:\Users\tuprak\Documents\Neuer Ordner (3)\bin\Debug\net10.0\Prime Number checker.deps.json
+C:\Users\tuprak\Documents\Neuer Ordner (3)\bin\Debug\net10.0\Prime Number checker.runtimeconfig.json
+C:\Users\tuprak\Documents\Neuer Ordner (3)\bin\Debug\net10.0\Prime Number checker.dll
+C:\Users\tuprak\Documents\Neuer Ordner (3)\bin\Debug\net10.0\Prime Number checker.pdb
+C:\Users\tuprak\Documents\Neuer Ordner (3)\obj\Debug\net10.0\Prime Number checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuprak\Documents\Neuer Ordner (3)\obj\Debug\net10.0\Prime Number checker.AssemblyInfoInputs.cache
+C:\Users\tuprak\Documents\Neuer Ordner (3)\obj\Debug\net10.0\Prime Number checker.AssemblyInfo.cs
+C:\Users\tuprak\Documents\Neuer Ordner (3)\obj\Debug\net10.0\Prime Number checker.csproj.CoreCompileInputs.cache
+C:\Users\tuprak\Documents\Neuer Ordner (3)\obj\Debug\net10.0\Prime Number checker.sourcelink.json
+C:\Users\tuprak\Documents\Neuer Ordner (3)\obj\Debug\net10.0\Prime Number checker.dll
+C:\Users\tuprak\Documents\Neuer Ordner (3)\obj\Debug\net10.0\refint\Prime Number checker.dll
+C:\Users\tuprak\Documents\Neuer Ordner (3)\obj\Debug\net10.0\Prime Number checker.pdb
+C:\Users\tuprak\Documents\Neuer Ordner (3)\obj\Debug\net10.0\Prime Number checker.genruntimeconfig.cache
+C:\Users\tuprak\Documents\Neuer Ordner (3)\obj\Debug\net10.0\ref\Prime Number checker.dll
